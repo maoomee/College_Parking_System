@@ -22,6 +22,6 @@ The numberplate is detected using contour detection and EasyOCR.
 ![Preview](Assets/gui.PNG)
 
 ## Please open an issue if
-* Aryan Singh
-* xoplaysvideogames@gmail.com
+* Mousami Biswas
+* mousamiuni@gmail.com
 
